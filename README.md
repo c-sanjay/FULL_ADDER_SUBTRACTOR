@@ -106,7 +106,8 @@ endmodule
 
 **FULL SUBTRACTOR**
 
-![318332487-1cc068c4-6398-4a52-bae8-39c6657c0a9a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/03d5d030-815e-4847-a976-2fd282cf0333)
+![image](https://github.com/user-attachments/assets/8c764dc8-0f23-429a-b587-71a42b978229)
+
 
 
 **Result:**
